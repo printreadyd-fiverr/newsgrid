@@ -23,7 +23,7 @@ body {
     font-family: 'Lato', sans-serif;
     line-height: 1.5;
     background: var(--light-color);
-    scroll-bihavior:smooth;
+    scroll-bihavior: smooth;
 }
 
 a {
@@ -366,5 +366,5 @@ h6 {
 }
 
 #main-footer .footer-container input[type='submit'] {
-    width: 90%;
+    width: 89.5%;
 }
